@@ -1,8 +1,8 @@
----
-Title:  AI_Voice_Companion
-Author: Masood Ahmed
-Email: 'masood20@connect.hku.hk' or 'mangimasood2000@gmail.com'
----
+
+Title:  AI_Voice_Companion </br>
+Author: Masood Ahmed </br>
+Email: 'masood20@connect.hku.hk' or 'mangimasood2000@gmail.com' </br>
+
 
 # AI_Voice_Companion
 
